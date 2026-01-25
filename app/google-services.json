@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1008068388966",
+    "firebase_url": "https://zaysine-mm-default-rtdb.firebaseio.com",
+    "project_id": "zaysine-mm",
+    "storage_bucket": "zaysine-mm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008068388966:android:61a0abb4b39ae1227865a7",
+        "android_client_info": {
+          "package_name": "com.mm.zay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAho-8lIW1QqWYjj-TK7i_joQ2rV0hqZig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
